@@ -4,7 +4,7 @@ Computer backup op sys drive cloning and fire protection
 
 I just clobed my operating system c-drive
 
-  1 Hardware cloning
+  1 Hardware cloning (bootable copy)
   2 Fire resistant safe
 
 github
